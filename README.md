@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me:
-  - Discord: DigitalAdapt#8238
-  - Email: andrew@digitaladapt.com
+  - Discord: [DigitalAdapt#8238](https://discord.com/users/570971366833127425)
+  - Email: [andrew@digitaladapt.com](mailto:andrew@digitaladapt.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Edited from my phone, using vim on my server, because firefox doesn't open the keyboard when trying to edit this readme on the website.
 
