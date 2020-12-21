@@ -1,9 +1,14 @@
 ### Hi there 👋
+- 🔭 I’m currently working on: Updating my profiles and resumes across the internet.
+- ✨ Resume: [Resume (PDF)](https://www.digitaladapt.com/documents/Andrew-B-Stowell-Resume.pdf)
 - 📫 How to reach me:
-  - Discord: [DigitalAdapt#8238](https://discord.com/users/570971366833127425)
-  - Email: [andrew@digitaladapt.com](mailto:andrew@digitaladapt.com)
+  - [Discord: DigitalAdapt#8238](https://discord.com/users/570971366833127425)
+  - [Email: andrew@digitaladapt.com](mailto:andrew@digitaladapt.com)
+  - [Keybase: digitaladapt](https://keybase.io/digitaladapt)
+  - [Mastodon: digitaladapt](https://mastodon.technology/@digitaladapt)
+  - [Twitter: digitaladapt](https://twitter.com/digitaladapt)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Edited from my phone, using vim on my server, because firefox doesn't open the keyboard when trying to edit this readme on the website.
+- ⚡ Fun fact: Edited from my phone, using vim on my server, because my mobile firefox doesn't open the keyboard when trying to edit this readme on the website.
 
 <!--
 **digitaladapt/digitaladapt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
