@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on: [Web3Tax](https://web3tax.info/) 
 - ✨ Resume: [Resume (PDF)](https://www.digitaladapt.com/documents/Andrew-B-Stowell-Resume.pdf)
 - 📫 How to reach me:
+  - <a rel="me" href="https://toot.community/@digitaladapt">Mastodon: @digitaladapt@toot.community</a>
   - [Twitter: digitaladapt](https://twitter.com/digitaladapt)
   - [Email: andrew@digitaladapt.com](mailto:andrew@digitaladapt.com)
   - [Discord: DigitalAdapt#8238](https://discord.com/users/570971366833127425)
