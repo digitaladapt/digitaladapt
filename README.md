@@ -1,9 +1,6 @@
 ### So, hi, I'm Andrew, though online I'm more commonly known as DigitalAdapt.
 
-<!-- #### Maker of [Web3Tax](https://web3tax.info/) -->
-
 - 🚀 Just finished updating my website: [DigitalAdapt.com](https://www.digitaladapt.com/)
-<!-- - 🔭 I’m currently working on: [Web3Tax](https://web3tax.info/) -->
 - ✨ Resume: [Resume (PDF)](https://www.digitaladapt.com/documents/Andrew-B-Stowell-Resume.pdf)
 - 📫 How to reach me:
   - <a rel="me" href="https://toot.community/@digitaladapt">Mastodon: digitaladapt (toot.community)</a>
