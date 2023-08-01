@@ -11,7 +11,7 @@
   - [LinkedIn: digitaladapt](https://www.linkedin.com/in/digitaladapt)
   - [Mastodon: @digitaladapt@toot.community](https://toot.community/@digitaladapt)
   - [Reddit: digitaladapt](https://www.reddit.com/u/digitaladapt)
-  - [Twitter: digitaladapt](https://twitter.com/digitaladapt)
+  - [Twitter: @digitaladapt](https://twitter.com/digitaladapt)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Beyond coding for a living, and coding for fun, I sometimes crochet and knit once and a while. But most days I'm just an exhausted dad, just trying to keep up with my kids.
 
