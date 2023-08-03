@@ -16,7 +16,5 @@
 - ⚡ Fun fact: Beyond coding for a living, and coding for fun, I sometimes crochet and knit once and a while. But most days I'm just an exhausted dad, just trying to keep up with my kids.
 
 ![GitHub Stats](https://readme.digitaladapt.com/?username=digitaladapt&show_icons=true)
-<!-- title_color=8cff9b&text_color=eeeeee&bg_color=12173d&border_color=464b8c&show_icons=true&icon_color=464b8c) -->
 
 ![Most Used Languages](https://readme.digitaladapt.com/top-langs/?username=digitaladapt)
-<!-- &title_color=8cff9b&text_color=eeeeee&bg_color=12173d&border_color=464b8c) -->
