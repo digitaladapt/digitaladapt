@@ -15,6 +15,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Beyond coding for a living, and coding for fun, I sometimes crochet and knit once and a while. But most days I'm just an exhausted dad, just trying to keep up with my kids.
 
-![GitHub Stats](https://readme.digitaladapt.com/?username=digitaladapt&show_icons=true)
+![GitHub Stats](./profile/gh-stats.svg)
 
-![Most Used Languages](https://readme.digitaladapt.com/top-langs/?username=digitaladapt)
+![Most Used Languages](/profile/gh-top-langs.svg)
